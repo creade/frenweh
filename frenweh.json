@@ -1,0 +1,301 @@
+
+{
+  "type": "FeatureCollection",
+  "features": [
+  	{
+      "type": "Feature",
+      "properties": {
+        "year":2007,
+        "name": "Ferihegy Airport, Budapest, Hungary",
+        "direction": "east"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [19.256280,47.438434]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year":2007,
+        "name": "Mt. Phillips, Colfax County, New Mexico, USA",
+        "direction": "west"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [-105.159871,36.478396]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year":2007,
+        "name": "White River, Ontario, Canada",
+        "direction": "north"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [-85.288912,48.597596]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year":2007,
+        "name": "Indian Shores, Florida, USA",
+        "direction": "south"
+
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [-82.801957, 27.801847]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year":2008,
+        "name": "Miami, Florida, USA",
+        "direction": "south"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [-80.304982, 25.691610]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year":2009,
+        "name": "Tokyo, Japan",
+        "direction": "east"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [139.797035, 35.714148]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year":2009,
+        "name": "Homestead, Florida, USA",
+        "direction": "south"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [-80.451752, 25.535601]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year":2010,
+        "name": "Mysore, Karnataka, India",
+        "direction": "south"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [76.667820,12.279346]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year":2010,
+        "name": "Santa Monica, California, USA",
+        "direction": "west"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [-118.499604, 34.007634]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year":2011,
+        "name": "Fairbanks, Alaska, USA",
+        "direction": "north"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [ -147.725991, 65.084209]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year":2012,
+        "name": "Kauai, Hawaii, USA",
+        "direction": "west"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [-159.779291, 22.023438]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year":2013,
+        "name": "Maseru, Lesotho",
+        "direction": "south"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [ 28.122213, -29.549025]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year":2014,
+        "name": "Kiruna, Sweden",
+        "direction": "north"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [20.240645, 67.862358]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year":2007
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [19.256280,27.801847],[19.256280,48.597458],[-105.159871,48.597458],[-105.159871,27.801847],[19.256280,27.801847]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year":2008
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [19.256280,25.691610],[19.256280,27.801847],[-105.159871,27.801847],[-105.159871,25.691610],[19.256280,25.691610]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year":2009
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [139.797035,25.535601], [139.797035,48.597458], [19.256280,48.597458], [19.256280,25.691610],
+            [-105.159871,25.691610], [-105.159871,25.535601], [19.256280,25.535601], [139.797035,25.535601]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year":2010
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [139.797035,12.279346], [139.797035,25.535601],[50,25.535601],[0,25.535601],[-50,25.535601],[-105.159871,25.535601],[-105.159871,48.597458],
+            [-118.499604,48.597458],[-118.499604,12.279346],[-100,12.279346 ],[-50,12.279346 ],[0,12.279346 ],[139.797035,12.279346]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year":2011
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-118.499604,12.279346], [-118.499604,48.597458], [-50,48.597458 ], [0,48.597458 ], [50,48.597458 ], [139.797035,48.597458 ],
+            [139.797035,65.084209 ], [50,65.084209 ], [0,65.084209 ], [-50,65.084209 ], [-147.725991,65.084209 ],[-147.725991,12.279346 ],
+
+            [-118.499604,12.279346]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year":2012
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+			[-147.725991,12.279346 ],[-147.725991,65.084209 ],[-159.779291,65.084209 ],[-159.779291,12.279346 ],[-147.725991,12.279346 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year":2013
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [ 
+			[139.797035, -29.549025], 
+			[139.797035,  12.279346], [50,  12.279346], [0,  12.279346], [-50,  12.279346], [-100,  12.279346], [-159.779291,12.279346 ],
+			[-159.779291, -29.549025], [-100, -29.549025], [0, -29.549025], [50, -29.549025], 
+			[139.797035, -29.549025]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year":2014
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [ 
+			[139.797035, 65.084209], 
+			[139.797035,  67.862358], [50,  67.862358], [0,  67.862358], [-50,  67.862358], [-100,  67.862358], [-159.779291,67.862358 ],
+			[-159.779291,65.084209 ], [-100, 65.084209], [0, 65.084209], [50, 65.084209], 
+			[139.797035, 65.084209]
+          ]
+        ]
+      }
+    }
+  ]
+}
+
+
