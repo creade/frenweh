@@ -187,6 +187,19 @@
     {
       "type": "Feature",
       "properties": {
+        "year":2015,
+        "name": "Kauai, Hawaii, USA",
+        "direction": "west"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [ -159.779844,22.037323]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "year":2007
       },
       "geometry": {
@@ -339,7 +352,40 @@
           ]
         ]
       }
-    }
+    },
+    {
+     "type": "Feature",
+     "properties": {
+       "year":2016
+     },
+     "geometry": {
+       "type": "Polygon",
+       "coordinates": [
+         [
+           [
+               -159.779844,
+              -29.549025
+            ],
+            [
+               -159.779844,
+              67.862358
+            ],
+            [
+              -159.779291,
+              67.862358
+            ],
+            [
+              -159.779291,
+              -29.549025
+            ],
+            [
+               -159.779844,
+              -29.549025
+            ]
+         ]
+       ]
+     }
+   }
   ]
 }
 
